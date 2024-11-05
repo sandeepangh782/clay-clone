@@ -1,0 +1,7 @@
+.hero {
+    background-image: linear-gradient(90deg, #f9f8f6 36%, #d4b26d00);
+    width: 100%;
+    height: 100%;
+    /* inset: 0% auto 0% 0%; */
+}
+

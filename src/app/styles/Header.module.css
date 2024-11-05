@@ -1,0 +1,14 @@
+/* src/app/components/Header.module.css */
+
+.headerImage {
+    width: 100px; /* Adjust as needed */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Center alignment if needed */
+    margin: 0 auto;
+  }
+  .header {
+    background-color: white;
+  }
+  .nav-link {
+    color: black;
+  }
